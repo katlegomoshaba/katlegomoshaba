@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**katlegomoshaba/katlegomoshaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Katlego Moshaba 👋
 
-Here are some ideas to get you started:
+I'm a Software Development student at Rosebank College, based in Pretoria, South Africa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning how to build software applications and improve my programming skills. I enjoy working on projects, trying out new things and learning from the challenges I come across while coding.
+
+### What I'm learning
+- Java
+- C#
+- SQL
+- ASP.NET Core
+- Object-Oriented Programming
+- Git and GitHub
+
+### Projects I've worked on
+- **CyberSecurityChatbot** – A chatbot project focused on teaching people about cybersecurity.
+- **RaceDay Event Management System** – An event management project built using ASP.NET Core and SQL Server.
+- **Java Applications** – Different applications I've developed as part of my studies.
+
+### My goals
+I'm working towards becoming a software developer. I want to keep building projects, gain practical experience and eventually get an opportunity to work in the software development industry.
+
+### A little about me
+- 🎓 Studying towards a Diploma in Software Development.
+- 📍 Pretoria, South Africa.
+- 💻 Always learning and improving my coding skills.
+
+Thanks for visiting my profile!
